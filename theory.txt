@@ -1,0 +1,27 @@
+Q1. What is emmet?
+It basically helps in writing code in shortcuts which gets converted into full code. it reduces the time in which we write the code.
+
+Q2. Difference between library and framework?
+A framework is a set of pre-written code that provides a structure for developing software applications. A library, on the other hand, is a collection of pre-written code that can be used to perform specific tasks. 
+example = carousel is framework, p5.js is library.
+
+Q3. What is CDN? Why do we use it?
+content delivery network refers to network of geographically distributed servers that helps in better delivery of internet content.
+
+Q4. Why is react known as react?
+React was developed for applications (Facebook) that have constantly changing data. Since React is a front-end framework or the “View” in MVC, this means that as the user clicks around and changes the app’s data, the view should “react” or change with those user events. User events being mouse clicks, typing, submitting
+
+Q5. What is crossorigin in script tag?
+The purpose of crossorigin attribute is used to share the resources from one domain to another domain.It is used to handle the CORS request that checks whether it is safe to allow for sharing the resources from other domains.
+
+Q6. What is the difference between react and reactDOM?
+React is a JavaScript library for building User Interfaces and ReactDOM is the JavaScript library that allows React to interact with the DOM.
+
+Q7. Difference between react.development.js and react.production.js files?
+The development build is used - as the name suggests - for development reasons. You have Source Maps, debugging and often times hot reloading ability in those builds. The production build, on the other hand, runs in production mode which means this is the code running on your client's machine.
+
+Q8. Difference between async and defer?
+async is best for very high priority JavaScript resources that should run as early as possible in the loading process.
+defer is ideal for general JavaScript resources that aren't critical to the initial rendering of the page and can be run later in the loading process.
+
+
